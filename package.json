@@ -1,0 +1,20 @@
+{
+  "name": "sucrase-register",
+  "version": "0.0.0",
+  "description": "Require *.jsx files in node.js, using sucrase",
+  "main": "index.js",
+  "repository": "https://github.com/kesla/sucrase-register",
+  "author": "David Björklund <david.bjorklund@gmail.com>",
+  "license": "MIT",
+  "private": false,
+  "scripts": {
+    "test": "jest"
+  },
+  "devDependencies": {
+    "react": "*"
+  },
+  "dependencies": {
+    "require-hacker": "^3.0.1",
+    "sucrase": "^1.4.0"
+  }
+}
