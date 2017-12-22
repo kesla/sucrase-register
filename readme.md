@@ -1,6 +1,6 @@
 # sucrase-register
 
-A node.js require hook for jsx, import (etc) using sucrase
+A node.js require hook for jsx, import (etc) using [sucrase](https://github.com/alangpierce/sucrase)
 
 ## Installation
 
