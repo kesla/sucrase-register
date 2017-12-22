@@ -1,6 +1,6 @@
 {
   "name": "sucrase-register",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Require *.jsx files in node.js, using sucrase",
   "main": "index.js",
   "repository": "https://github.com/kesla/sucrase-register",
