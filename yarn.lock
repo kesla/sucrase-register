@@ -122,8 +122,8 @@ setimmediate@^1.0.5:
   resolved "https://registry.yarnpkg.com/setimmediate/-/setimmediate-1.0.5.tgz#290cbb232e306942d7d7ea9b83732ab7856f8285"
 
 sucrase@^1.4.0:
-  version "1.4.0"
-  resolved "https://registry.yarnpkg.com/sucrase/-/sucrase-1.4.0.tgz#c381e7fcd348859de52b6e8b7ba1d57af5b48461"
+  version "1.5.0"
+  resolved "https://registry.yarnpkg.com/sucrase/-/sucrase-1.5.0.tgz#a7b6cacbaa6c8d544dcb5ea79b81e162991e9687"
   dependencies:
     charcodes "0.0.10"
     tslib "^1.7.1"
