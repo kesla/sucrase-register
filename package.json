@@ -14,7 +14,7 @@
     "react": "*"
   },
   "dependencies": {
-    "require-hacker": "^3.0.1",
+    "pirates": "^3.0.2",
     "sucrase": "^1.4.0"
   }
 }
